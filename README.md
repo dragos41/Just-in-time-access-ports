@@ -1,5 +1,6 @@
 # Just-in-time-access-ports
 ## Secure ports with JIT
+Just-in-time access (JIT) can help reduce this exposure and in this exercise you will implement JIT so that SSH and RDP sessions can be used to manage a virtual machine.
 
 ### Step 1 : Enable Azure Defender for Cloud
 
